@@ -10,4 +10,4 @@ The scripts are meant as examples to speed up the development of migration solut
 ## Disclaimer
 This code is provided as-is without warranty of any kind, either express or implied, including any implied warranties of fitness for a particular purpose, merchantability, or non-infringement.
 ## Sharing is caring!
-Please leave a note if you are using this code and have experiences to share!
+Please let us know if you are using this code and have some experiences to share!
