@@ -9,4 +9,4 @@ This repo contains several PowerShell scripts that can support common migration 
 The scripts are meant as examples to speed up the development of migration solutions within these scenarios.
 
 ## Solution/Authors
-@awdhaan
+Andries den Haan
