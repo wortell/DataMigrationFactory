@@ -1,5 +1,5 @@
 # Data Migration Factory
-This repo contains several PowerShell scripts for migration professionals that can support common migration scenarios, such as:
+This repo contains sample PowerShell scripts for migration professionals that can support common migration scenarios, such as:
 * File shares to OneDrive for Business, SharePoint Online or Microsoft Teams
 * SharePoint Server to SharePoint Online or Microsoft Teams
 * Microsoft 365 tenant to tenant
