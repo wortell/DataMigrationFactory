@@ -1,6 +1,6 @@
 # Compare-FileShareSPOitemCount.ps1
 The script compares files and folders from an on-premises fileshare with a SharePoint Online or OneDrive for Business site after a migration.
-It's setup with a number of functions that are called for a specific source and destination. For use in a migration scenario, the functions would be called in loop for e.g. a CSV-list with items containing source and destination addresses.
+It's setup with a number of functions that are called for a specific source and destination. For use in a migration scenario, the functions would be called in loop for e.g. a CSV-list with items containing source and destination addresses and writing the comparison results to a new CSV-file.
 
 ## Dependencies
 This script uses cmdlets from the [PnP PowerShell module](https://github.com/pnp/PnP-PowerShell)
