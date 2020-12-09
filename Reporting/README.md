@@ -19,4 +19,4 @@ Consider other means of authentication. e.g. using app-based authentication prov
 
 Implementing this in the script would require a change to the connection logic as follows:
 
-`Connect-PnPOnline -Url "https://$tenantName-admin.sharepoint.com" -ClientId $clientId -Thumbprint $thumbPrint-Tenant "$tenantName.onmicrosoft.com"`
+`Connect-PnPOnline -Url "https://$tenantName-admin.sharepoint.com" -ClientId $clientId -Thumbprint $thumbPrint -Tenant "$tenantName.onmicrosoft.com"`
