@@ -9,7 +9,5 @@ The scripts are meant as examples to speed up the development of migration solut
 * Andries den Haan
 ## Disclaimer
 This code is provided as-is without warranty of any kind, either express or implied, including any implied warranties of fitness for a particular purpose, merchantability, or non-infringement.
-## License
-This project is licensed under the MIT License - see the LICENSE file for details
 ## Sharing is caring!
-Please leave a line if you are using this code and have experiences to share!
+Please leave a note if you are using this code and have experiences to share!
