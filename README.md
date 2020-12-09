@@ -10,3 +10,6 @@ The scripts are meant as examples to speed up the development of migration solut
 
 ## Solution/Authors
 Andries den Haan
+
+## Disclaimer
+This code is provided as is without warranty of any kind, either express or implied, including any implied warranties of fitness for a particular purpose, merchantability, or non-infringement.
