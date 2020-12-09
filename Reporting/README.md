@@ -21,4 +21,4 @@ Implementing this in the script would require a change to the connection logic a
 
 `Connect-PnPOnline -Url "https://$tenantName-admin.sharepoint.com" -ClientId $clientId -Thumbprint $thumbPrint -Tenant "$tenantName.onmicrosoft.com"`
 
-A sample script to setup the app authentication is available in this reporat [/Authenticaton/Setup-PnPPowerShellAppAuthentication.ps1] (https://github.com/wortell/DataMigrationFactory/blob/main/Authentication/Setup-PnPPowerShellAppAuthentication.ps1).
+A sample script to setup the app authentication is available in this repor at /Authentication/[Setup-PnPPowerShellAppAuthentication.ps1] (https://github.com/wortell/DataMigrationFactory/blob/main/Authentication/Setup-PnPPowerShellAppAuthentication.ps1).
